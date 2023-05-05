@@ -4,3 +4,11 @@
 <br>
 0x02-functions_nested_loops
 <br>
+0x03-debugging
+<br>
+0x04-more_functions_nested_loops
+<br>
+0x05-pointers_arrays_strings
+<br>
+0x06-pointers_arrays_strings
+<br>
