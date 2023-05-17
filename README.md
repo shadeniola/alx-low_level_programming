@@ -12,3 +12,14 @@
 <br>
 0x06-pointers_arrays_strings
 <br>
+0x07-pointers_arrays_strings
+<br>
+0x08-recursion
+<br>
+0x09-static_libraries
+<br>
+0x0A-argc_argv
+<br>
+0x0B-malloc_free
+<br>
+
